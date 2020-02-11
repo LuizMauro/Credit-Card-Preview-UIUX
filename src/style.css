@@ -1,0 +1,50 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.form{
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin:  auto;
+  margin-top: -40px;
+  width: 40%;
+  
+}
+
+
+.divInputs{
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputsRow{
+  width: 40%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.inputs{
+  text-align: center;
+  height: 30px;
+  font-size: 15px;
+ margin-top: 10px;
+ border-radius: 10px;
+ border: 1px solid #ccc;
+}
+
+.inputdivide{
+  width: 50%;
+  margin-right: 5px;
+  margin-bottom: 20px;
+}
+
+#PaymentForm{
+  margin-top: 150px;
+}
